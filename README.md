@@ -8,8 +8,6 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1241228735256259"
      crossorigin="anonymous"></script>p
 <!---
-romi377/romi377 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1241228735256259"
-     crossorigin="anonymous"></script>
+
